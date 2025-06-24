@@ -32,19 +32,26 @@ module Equation(
     wire s1,t1;
      
     ha One(
-        .a    (x[1]),
-        .b    (x[0]),
-        .sum  (s0),
-        .carry(t0) 
-    );
-    
+       .a  (x[1]),
+       .b  (x[0]),
+       .sum (s0),
+       .carry(t0) 
+       );
+       
+    ha Two1(
+       .a  (t0 ),
+       .b  (t0 ),
+       .sum (s1 ),
+       .carry(t1 ) 
+       );
+       
     ha Two(
-        .a    (x[1]),
-        .b    (t0  ),
-        .sum  (s1  ),
-        .carry(t1  ) 
-    );
-    assign xsq = {t1,s1,s0,x[0]};
+       .a  (x[1]),
+       .b  (t1 ),
+       .sum (s2 ),
+       .carry(t2 ) 
+       );
+ assign xsq = {t2,s2,s1,x[0]};
     
     //2*x
     wire [3:0] twox ;
