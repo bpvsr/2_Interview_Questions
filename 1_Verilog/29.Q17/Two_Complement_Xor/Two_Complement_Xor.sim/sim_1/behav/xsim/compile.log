@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sources_1/new/exor.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module exor_p
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sources_1/new/ha.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ha
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sim_1/new/two_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module two_tb

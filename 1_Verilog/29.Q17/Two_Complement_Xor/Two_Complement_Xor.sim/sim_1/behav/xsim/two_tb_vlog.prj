@@ -1,0 +1,11 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Two_Complement_Xor.srcs/sources_1/new/exor.v" \
+"../../../../Two_Complement_Xor.srcs/sources_1/new/ha.v" \
+"../../../../Two_Complement_Xor.srcs/sim_1/new/two_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sim_1/new/two_tb.v,1751371917,verilog,,,,two_tb,,,,,,,,
+D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sources_1/new/exor.v,1751371751,verilog,,D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sources_1/new/ha.v,,exor_p,,,,,,,,
+D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sources_1/new/ha.v,1751362559,verilog,,D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.srcs/sim_1/new/two_tb.v,,ha,,,,,,,,

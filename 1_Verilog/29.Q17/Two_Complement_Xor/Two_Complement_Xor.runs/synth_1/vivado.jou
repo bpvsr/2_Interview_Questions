@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Tue Jul  1 15:22:17 2025
+# Process ID: 12348
+# Current directory: D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.runs/synth_1
+# Command line: vivado.exe -log exor_p.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source exor_p.tcl
+# Log file: D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.runs/synth_1/exor_p.vds
+# Journal file: D:/5_V_P/Two_Complement_Xor/Two_Complement_Xor.runs/synth_1\vivado.jou
+# Running On: GRL-FPGA, OS: Windows, CPU Frequency: 2592 MHz, CPU Physical cores: 6, Host memory: 16963 MB
+#-----------------------------------------------------------
+source exor_p.tcl -notrace
